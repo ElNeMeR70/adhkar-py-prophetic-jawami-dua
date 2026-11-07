@@ -1,0 +1,7 @@
+[project]
+name = "adhkar-py-prophetic-jawami-dua"
+version = "1.0.0"
+description = "Jawami' Al-Kalim Comprehensive Prophetic Supplications Corpus (موسوعة جوامع الدعاء النبوي الشريف والمأثورات)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
